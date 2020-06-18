@@ -13,8 +13,8 @@ class NavBar extends Component {
                 <ul>
                     <li onClick={()=>{window.location.reload(false);}}><NavLink exact to="/">Home</NavLink></li>
                     <li onClick={()=>{window.location.reload(false);}}><NavLink exact to="/products">Products</NavLink></li>
-                    <li onClick={()=>{window.location.reload(false);}}><NavLink to="/contact">Contact</NavLink></li>
-                    <li onClick={()=>{window.location.reload(false);}}><NavLink to="/about">About</NavLink></li>
+                    <li onClick={()=>{window.location.reload(false);}}><NavLink to="/contact">Contact Us</NavLink></li>
+                    <li onClick={()=>{window.location.reload(false);}}><NavLink to="/about">About Us</NavLink></li>
                 </ul>
                 </BrowserRouter>
             </div>
