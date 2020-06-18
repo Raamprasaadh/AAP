@@ -1,5 +1,6 @@
 //Purpose of the file : to display the NavBar and help user to navigate through the page.
 //ToDo add Logo
+//check why it is not loading pages without location.reload
 import React, { Component } from 'react';
 import {BrowserRouter, NavLink} from 'react-router-dom';
 

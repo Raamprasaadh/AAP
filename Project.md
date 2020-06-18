@@ -12,4 +12,5 @@ Route Naming : routename;
 
 Dependencies used:-
 react-router-dom : To route and switch between different pages.
+react-responsive-carousel : for displaying images in carousel in homepage.
 
