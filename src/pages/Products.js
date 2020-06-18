@@ -9,8 +9,18 @@ export default function Products()
     return(
         <div className='Container'>
             <h1>
-                Product list with image and details.
+                Products.
             </h1>
+            <th>
+            <td>{"S.no"}</td>
+            <td>{"Image"}</td>
+            <td>{"Specifications"}</td>
+            </th>
+            <tr key={1}>
+               <td>{1}</td>
+               <td>{<img src = '/images/Plates.jpg' alt = "404"/>}</td>
+               <td>{"Specifications"}</td>
+            </tr>
         </div>
     )
 }
