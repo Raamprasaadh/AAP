@@ -1,12 +1,15 @@
 //Purpose of the file : To display Details about the company.
-import React from 'react'
+import React, {Component} from 'react'
 
-export default function About(){
-    return(
+class About extends Component{
+    render(){return(
         <div className="Container">
             <h1>
                 Display About Details.
             </h1>
         </div>
     )
+    }
 }
+
+export default  About;
