@@ -3,9 +3,10 @@ import ReactDOM from 'react-dom';
 import './Index.css';
 import App from './App';
 import * as ServiceWorker from './ServiceWorker';
-
+import { HashRouter } from 'react-router-dom';
 ReactDOM.render(
   <React.StrictMode>
+    <HashRouter basename={process.env.PUBLIC_URL}></HashRouter>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
