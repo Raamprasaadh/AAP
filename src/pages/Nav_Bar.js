@@ -11,10 +11,10 @@ class NavBar extends Component {
             <div className="navBar">
                 <BrowserRouter>
                 <ul>
-                    <li onClick={()=>{window.location.reload(false);}}><NavLink exact to="/">Home</NavLink></li>
-                    <li onClick={()=>{window.location.reload(false);}}><NavLink exact to="/products">Products</NavLink></li>
-                    <li onClick={()=>{window.location.reload(false);}}><NavLink to="/contact">Contact Us</NavLink></li>
-                    <li onClick={()=>{window.location.reload(false);}}><NavLink to="/about">About Us</NavLink></li>
+                    <li onClick={()=>{window.location.reload(false);}}><NavLink exact to={process.env.PUBLIC_URL +"/"}>Home</NavLink></li>
+                    <li onClick={()=>{window.location.reload(false);}}><NavLink to={process.env.PUBLIC_URL +"/products"}>Products</NavLink></li>
+                    <li onClick={()=>{window.location.reload(false);}}><NavLink to={process.env.PUBLIC_URL +"/contact"}>Contact Us</NavLink></li>
+                    <li onClick={()=>{window.location.reload(false);}}><NavLink to={process.env.PUBLIC_URL +"/about"}>About Us</NavLink></li>
                 </ul>
                 </BrowserRouter>
             </div>
