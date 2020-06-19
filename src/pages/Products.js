@@ -4,6 +4,7 @@ and its details such as width height and gsm.
 */
 import React from 'react';
 
+import Plates from '../images/Plates.jpg';
 export default function Products()
 {
     return(
@@ -18,7 +19,7 @@ export default function Products()
             </th>
             <tr key={1}>
                <td>{1}</td>
-               <td>{<img src = '/images/Plates.jpg' alt = "404"/>}</td>
+               <td>{<img src = {Plates} alt = "404"/>}</td>
                <td>{"Specifications"}</td>
             </tr>
         </div>
