@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AAP/static/css/main.f5ef50c0.chunk.css",
+    "main.js": "/AAP/static/js/main.0842b387.chunk.js",
+    "main.js.map": "/AAP/static/js/main.0842b387.chunk.js.map",
+    "runtime-main.js": "/AAP/static/js/runtime-main.c81fee0f.js",
+    "runtime-main.js.map": "/AAP/static/js/runtime-main.c81fee0f.js.map",
+    "static/css/2.fb346933.chunk.css": "/AAP/static/css/2.fb346933.chunk.css",
+    "static/js/2.c42513ca.chunk.js": "/AAP/static/js/2.c42513ca.chunk.js",
+    "static/js/2.c42513ca.chunk.js.map": "/AAP/static/js/2.c42513ca.chunk.js.map",
+    "index.html": "/AAP/index.html",
+    "precache-manifest.c076a73ebb8cb0ac93ad3bf1315febb7.js": "/AAP/precache-manifest.c076a73ebb8cb0ac93ad3bf1315febb7.js",
+    "service-worker.js": "/AAP/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/AAP/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.f5ef50c0.chunk.css.map": "/AAP/static/css/main.f5ef50c0.chunk.css.map",
+    "static/js/2.c42513ca.chunk.js.LICENSE.txt": "/AAP/static/js/2.c42513ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c81fee0f.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.c42513ca.chunk.js",
+    "static/css/main.f5ef50c0.chunk.css",
+    "static/js/main.0842b387.chunk.js"
+  ]
+}
