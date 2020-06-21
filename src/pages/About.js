@@ -4,7 +4,7 @@ import React, { Component } from 'react'
 class About extends Component {
     render() {
         return (
-            <div className="Container">
+            <div className="aboutUs">
             <h2>What we do</h2><br></br>
             <p>We at "Abirami Areca Plates" aim to reduce the impact on our environment by creating and promoting Areca Leaf products which are being produced with sustainable resource(made from fallen leaves - 100 % natural) through Eco friendly process(no chemicals or additives used) and make sure it is acceptable to Earth when disposed(biodegradable & compostable).</p >
             <br></br>

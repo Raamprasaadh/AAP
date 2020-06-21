@@ -20,3 +20,53 @@
     background: #FFF;
     color: #222;
   }
+  .products{
+    background-image:
+    linear-gradient(
+      skyblue, blue, white
+    );
+  }
+  .contactUs{
+    height:800px ;
+    background: #228B22;
+    color: #fff;
+  }
+
+  .aboutUs{
+    height:800px ;
+    background-image: url("../images/Areca_farm.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    color: #228B22;
+  }
+
+  .card {
+    background:#A0522D;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    margin-left : auto;
+    margin-right : auto;
+    margin-top:10px;
+  }
+  .productCard {
+    background:#222;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    margin-left : auto;
+    margin-right : auto;
+    margin-top:10px;
+  }
+  .productCard > img{
+    height:300px;
+    width:350px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
