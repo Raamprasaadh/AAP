@@ -5,9 +5,6 @@ todo  : remove table.
 */
 import React from 'react';
 
-import Plates from '../images/Products_Plates.jpeg';
-import Cups from '../images/Products_Cups.jpg';
-import TeaCups from '../images/Products_Tea_Cups.jpg';
 
 export default function Products() {
     return (
@@ -15,26 +12,19 @@ export default function Products() {
             <h1>
                 Products.
             </h1>
-            <div class="productCard">
-                <img src={Plates} alt="Product" Style={"width:100%"}></img>
-                <div class="container">
-                    <h4><b>Plates</b></h4>
-                    <p>Size : 10 inches</p>
-                </div>
+            <div class="plates">
+                    <h4 className="productTitle"><b>Plates</b></h4>
+                    <p className="productSpecs">Size : 10 inches</p>
             </div>
-            <div class="productCard">
-                <img src={Cups} alt="Product" Style={"width:100%"}></img>
-                <div class="container">
-                    <h4><b>Cups</b></h4>
-                    <p>Size : 5 inches</p>
-                </div>
+            <div class="cups">
+                
+                    <h4 className="productTitle"><b>Cups</b></h4>
+                    <p className="productSpecs">Size : 5 inches</p>
+                
             </div>
-            <div class="productCard">
-                <img src={TeaCups} alt="Product" Style={"width:100%"}></img>
-                <div class="container">
-                    <h4><b>Tea Cups</b></h4>
-                    <p>Size : 100 ml</p>
-                </div>
+            <div class="teaCups">
+                    <h4 className="productTitle"><b>Tea Cups</b></h4>
+                    <p className="productSpecs">Size : 100 ml</p>
             </div>
         </div>
     )
