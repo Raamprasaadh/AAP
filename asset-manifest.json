@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/AAP/static/css/main.6284a866.chunk.css",
-    "main.js": "/AAP/static/js/main.bbb95a09.chunk.js",
-    "main.js.map": "/AAP/static/js/main.bbb95a09.chunk.js.map",
+    "main.css": "/AAP/static/css/main.10a8c505.chunk.css",
+    "main.js": "/AAP/static/js/main.3561e4d8.chunk.js",
+    "main.js.map": "/AAP/static/js/main.3561e4d8.chunk.js.map",
     "runtime-main.js": "/AAP/static/js/runtime-main.c81fee0f.js",
     "runtime-main.js.map": "/AAP/static/js/runtime-main.c81fee0f.js.map",
     "static/css/2.fb346933.chunk.css": "/AAP/static/css/2.fb346933.chunk.css",
-    "static/js/2.1516df58.chunk.js": "/AAP/static/js/2.1516df58.chunk.js",
-    "static/js/2.1516df58.chunk.js.map": "/AAP/static/js/2.1516df58.chunk.js.map",
+    "static/js/2.f5d9ae61.chunk.js": "/AAP/static/js/2.f5d9ae61.chunk.js",
+    "static/js/2.f5d9ae61.chunk.js.map": "/AAP/static/js/2.f5d9ae61.chunk.js.map",
     "index.html": "/AAP/index.html",
-    "precache-manifest.7b802713e98489742b7110d8f86b4ee1.js": "/AAP/precache-manifest.7b802713e98489742b7110d8f86b4ee1.js",
+    "precache-manifest.94c8d6fa7d2c034aa30558c84b156728.js": "/AAP/precache-manifest.94c8d6fa7d2c034aa30558c84b156728.js",
     "service-worker.js": "/AAP/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/AAP/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.6284a866.chunk.css.map": "/AAP/static/css/main.6284a866.chunk.css.map",
-    "static/js/2.1516df58.chunk.js.LICENSE.txt": "/AAP/static/js/2.1516df58.chunk.js.LICENSE.txt",
+    "static/css/main.10a8c505.chunk.css.map": "/AAP/static/css/main.10a8c505.chunk.css.map",
+    "static/js/2.f5d9ae61.chunk.js.LICENSE.txt": "/AAP/static/js/2.f5d9ae61.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/AAP/static/media/Areca_farm.443a24cf.jpg",
     "static/media/Different_Sizes.jpg": "/AAP/static/media/Different_Sizes.fec88628.jpg",
     "static/media/Different_Sizes2.jpeg": "/AAP/static/media/Different_Sizes2.a83fa9fc.jpeg",
-    "static/media/Plates.jpg": "/AAP/static/media/Plates.0fa8a452.jpg"
+    "static/media/Plates.jpg": "/AAP/static/media/Plates.0fa8a452.jpg",
+    "static/media/Products_Cups.jpg": "/AAP/static/media/Products_Cups.ea22a546.jpg",
+    "static/media/Products_Plates.jpeg": "/AAP/static/media/Products_Plates.4f4a582a.jpeg",
+    "static/media/Products_Tea_Cups.jpg": "/AAP/static/media/Products_Tea_Cups.39de4051.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c81fee0f.js",
     "static/css/2.fb346933.chunk.css",
-    "static/js/2.1516df58.chunk.js",
-    "static/css/main.6284a866.chunk.css",
-    "static/js/main.bbb95a09.chunk.js"
+    "static/js/2.f5d9ae61.chunk.js",
+    "static/css/main.10a8c505.chunk.css",
+    "static/js/main.3561e4d8.chunk.js"
   ]
 }
