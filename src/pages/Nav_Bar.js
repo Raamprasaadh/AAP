@@ -13,8 +13,8 @@ class NavBar extends Component {
                 <ul>
                     <li onClick={()=>{window.location.reload(false);}}><NavLink exact to={process.env.PUBLIC_URL +"/"}>Home</NavLink></li>
                     <li onClick={()=>{window.location.reload(false);}}><NavLink to={process.env.PUBLIC_URL +"/products"}>Products</NavLink></li>
-                    <li onClick={()=>{window.location.reload(false);}}><NavLink to={process.env.PUBLIC_URL +"/contact"}>Contact Us</NavLink></li>
                     <li onClick={()=>{window.location.reload(false);}}><NavLink to={process.env.PUBLIC_URL +"/about"}>About Us</NavLink></li>
+                    <li onClick={()=>{window.location.reload(false);}}><NavLink to={process.env.PUBLIC_URL +"/contact"}>Contact Us</NavLink></li>
                 </ul>
                 </HashRouter>
             </div>
