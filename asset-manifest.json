@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AAP/static/css/main.1c690fbd.chunk.css",
+    "main.css": "/AAP/static/css/main.2a334615.chunk.css",
     "main.js": "/AAP/static/js/main.e721cfb5.chunk.js",
     "main.js.map": "/AAP/static/js/main.e721cfb5.chunk.js.map",
     "runtime-main.js": "/AAP/static/js/runtime-main.c81fee0f.js",
@@ -9,10 +9,10 @@
     "static/js/2.392b4377.chunk.js": "/AAP/static/js/2.392b4377.chunk.js",
     "static/js/2.392b4377.chunk.js.map": "/AAP/static/js/2.392b4377.chunk.js.map",
     "index.html": "/AAP/index.html",
-    "precache-manifest.40a1fa3104bfa34b2f79a265122af111.js": "/AAP/precache-manifest.40a1fa3104bfa34b2f79a265122af111.js",
+    "precache-manifest.3d05d3a6bb0bc826fc5692dae189bcb1.js": "/AAP/precache-manifest.3d05d3a6bb0bc826fc5692dae189bcb1.js",
     "service-worker.js": "/AAP/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/AAP/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.1c690fbd.chunk.css.map": "/AAP/static/css/main.1c690fbd.chunk.css.map",
+    "static/css/main.2a334615.chunk.css.map": "/AAP/static/css/main.2a334615.chunk.css.map",
     "static/js/2.392b4377.chunk.js.LICENSE.txt": "/AAP/static/js/2.392b4377.chunk.js.LICENSE.txt",
     "static/media/style.css": "/AAP/static/media/Products_Tea_Cups.39de4051.jpg",
     "static/media/Different_Sizes.jpg": "/AAP/static/media/Different_Sizes.fec88628.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.c81fee0f.js",
     "static/css/2.fb346933.chunk.css",
     "static/js/2.392b4377.chunk.js",
-    "static/css/main.1c690fbd.chunk.css",
+    "static/css/main.2a334615.chunk.css",
     "static/js/main.e721cfb5.chunk.js"
   ]
 }
