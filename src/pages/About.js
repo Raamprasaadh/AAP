@@ -6,10 +6,12 @@ class About extends Component {
         return (
             <div className="aboutUs">
 
-<h2>What we do</h2><br></br>
+
 <h3>Using Bio-Degradable is New responsible.</h3>
 <br></br>
 <p>Yes, We have to be responsible in order to give the present world to our children and next generation in a better form.</p>
+
+<h2>What we do</h2><br></br>
 <p>In short we (Abirami Areca Products) are being responsible!</p>
 
 
