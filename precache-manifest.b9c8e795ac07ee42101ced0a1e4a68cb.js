@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e326bfc80c6df2b5f8f04e0463afc26",
+    "revision": "2d1df5d861a556dc5cbf11d3d90eb70a",
     "url": "/AAP/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AAP/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "bc0fcffe8ecdf3b048f2",
-    "url": "/AAP/static/css/main.2a334615.chunk.css"
+    "revision": "e425e9978bc4b9a4eb9e",
+    "url": "/AAP/static/css/main.3ee99785.chunk.css"
   },
   {
     "revision": "697072171e8f72f886b1",
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AAP/static/js/2.392b4377.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc0fcffe8ecdf3b048f2",
-    "url": "/AAP/static/js/main.e721cfb5.chunk.js"
+    "revision": "e425e9978bc4b9a4eb9e",
+    "url": "/AAP/static/js/main.3987e8b2.chunk.js"
   },
   {
     "revision": "35afa91cb376facb32dd",
     "url": "/AAP/static/js/runtime-main.c81fee0f.js"
-  },
-  {
-    "revision": "443a24cf08d19cf8fe669156d2b38cd6",
-    "url": "/AAP/static/media/Areca_farm.443a24cf.jpg"
   },
   {
     "revision": "fec886286eea90747fa7f0ac118c62d2",
