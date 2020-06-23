@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3298d7ee902903f8d5487c0f2fd34393",
+    "revision": "13aee7abf0b94405e2f4d45b8b629e55",
     "url": "/AAP/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AAP/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "18cd5b807de88dd0706b",
-    "url": "/AAP/static/css/main.3ee99785.chunk.css"
+    "revision": "3695a87458d1f392fa7e",
+    "url": "/AAP/static/css/main.dcf90e18.chunk.css"
   },
   {
     "revision": "697072171e8f72f886b1",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AAP/static/js/2.392b4377.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18cd5b807de88dd0706b",
-    "url": "/AAP/static/js/main.405f873d.chunk.js"
+    "revision": "3695a87458d1f392fa7e",
+    "url": "/AAP/static/js/main.5bafbbaa.chunk.js"
   },
   {
     "revision": "35afa91cb376facb32dd",
@@ -50,5 +50,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "39de4051dc176b990d35eccb404e46ef",
     "url": "/AAP/static/media/Products_Tea_Cups.39de4051.jpg"
+  },
+  {
+    "revision": "0ced4a3b332e6ea97d30fa137cee464f",
+    "url": "/AAP/static/media/Quicksand-SemiBold.0ced4a3b.ttf"
+  },
+  {
+    "revision": "1af0b153d5633ca641badc9e7dfe8245",
+    "url": "/AAP/static/media/RockSalt-Regular.1af0b153.ttf"
   }
 ]);
