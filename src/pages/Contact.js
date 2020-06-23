@@ -23,7 +23,6 @@ export default function Contact() {
                     <p>mail@gmail.com</p>
                 </div>
             </div>
-            <footer>&copy; 2020 Hello World Applications.</footer>
         </div>
     )
 }

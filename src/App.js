@@ -6,6 +6,7 @@ import HomePage from './pages/Home_Page';
 import Products from './pages/Products';
 import Contact from './pages/Contact';
 import About from './pages/About';
+import Footer from './pages/Footer';
 
 //import logo from './logo.svg';
 import './App.css';
@@ -22,6 +23,7 @@ function App() {
         <Route exact path='/contact' component = {Contact}/>
         <Route exact path='/about' component = {About}/>
         </Switch>
+        <Footer/>
               
     </div>
     </HashRouter>

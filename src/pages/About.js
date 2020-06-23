@@ -55,7 +55,6 @@ By strictly following deciplined Manufacturing process.</p>
 <br></br>
 <br></br>
 <br></br>
-<footer>&copy; 2020 Hello World Applications.</footer>
 </div >
     )
     }
