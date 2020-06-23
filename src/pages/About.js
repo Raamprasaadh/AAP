@@ -7,7 +7,7 @@ class About extends Component {
             <div className="aboutUs">
 
 
-<h3>Using Bio-Degradable is New responsible.</h3>
+<h1 className="aboutTitle">Using Bio-Degradable is new "Being Responsible".</h1>
 <br></br>
 <p>Yes, We have to be responsible in order to give the present world to our children and next generation in a better form.</p>
 

@@ -9,7 +9,7 @@ import React from 'react';
 export default function Products() {
     return (
         <div className='products'>
-            <h1>
+            <h1 className='productsTitle'>
                 Products.
             </h1>
             <div class="plates">
