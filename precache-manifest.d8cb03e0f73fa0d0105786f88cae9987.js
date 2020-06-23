@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8508fc38e63390a4d7dddf68ff6bf702",
+    "revision": "7327d44a32dfa3ab527b2ba074da424a",
     "url": "/AAP/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AAP/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "acf0c2f81aa044f5b2de",
-    "url": "/AAP/static/css/main.300d7e50.chunk.css"
+    "revision": "b7383ae209074e638bb8",
+    "url": "/AAP/static/css/main.9b3646ab.chunk.css"
   },
   {
     "revision": "bd117a26045174383405",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AAP/static/js/2.bd8268d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "acf0c2f81aa044f5b2de",
-    "url": "/AAP/static/js/main.bc604bc8.chunk.js"
+    "revision": "b7383ae209074e638bb8",
+    "url": "/AAP/static/js/main.728c3dcf.chunk.js"
   },
   {
     "revision": "35afa91cb376facb32dd",
@@ -40,16 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AAP/static/media/Plates.10195d52.jpg"
   },
   {
-    "revision": "ea22a546b392662735fdc5f53c8d72d7",
-    "url": "/AAP/static/media/Products_Cups.ea22a546.jpg"
+    "revision": "237c8fbb74c1eea6ff194f7090412d78",
+    "url": "/AAP/static/media/Products_Cups.237c8fbb.jpg"
   },
   {
-    "revision": "4f4a582aec6a52f9cf0cf68e1d899898",
-    "url": "/AAP/static/media/Products_Plates.4f4a582a.jpeg"
+    "revision": "17397ccfb0e57d455216335d7a3c0dbe",
+    "url": "/AAP/static/media/Products_Plates.17397ccf.jpeg"
   },
   {
-    "revision": "39de4051dc176b990d35eccb404e46ef",
-    "url": "/AAP/static/media/Products_Tea_Cups.39de4051.jpg"
+    "revision": "d1a2c593bee5746f6aff3be1f48a9bd7",
+    "url": "/AAP/static/media/Products_Tea_Cups.d1a2c593.jpg"
   },
   {
     "revision": "0ced4a3b332e6ea97d30fa137cee464f",
