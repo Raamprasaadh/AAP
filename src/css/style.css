@@ -1,16 +1,25 @@
+@font-face {
+  font-family: QuickSand;
+  src: url(../fonts/Quicksand-SemiBold.ttf);
+}
+@font-face {
+  font-family: RockSalt;
+  src: url(../fonts/RockSalt-Regular.ttf);
+}
+
 .navBar ul{
     padding: 0;
     margin: 0;
     display: flex;
     list-style: none;
     width: 100%;
-    background-color: #333;
-    border: 5px solid #333333;    
+    background-color: #E1E1E1;
+    border: 5px solid #FFFFFF;    
   }
 
   .navBar ul a{
     text-decoration: none;
-    color: #999;
+    color: #343434;
     display: block;
     padding: 15px;
     margin: 0 5px;
@@ -18,53 +27,43 @@
   }
 
   .navBar ul .active, .navBar ul a:hover{
-    background: #FFF;
-    color: #222;
+    background: #99CD4E;
+    color: #FFFFFF;
+  }
+  footer{
+    font-style: italic;
+    font-size: medium;
+    background-color: greenyellow;
   }
   
   .contactUs{
-    height:800px ;
-    background-image:
-    linear-gradient(
-      #228B22, white, green
-    );
+    height: 100vh;
+    font-family:  'QuickSand';
+    background: #99CD4E;
     color: #fff;
   }
 
   .aboutUs{
-    height:800px ;
-    color: blue;
-  }
-  .aboutUs:hover {
-    opacity: 1;
+    font-family:  'QuickSand';
+    background-color: #99CD4E;
+    font-size: large;
+    color:#ffffff;
   }
 
   .card {
-    background:#A0522D;
+    background:#E1E1E1;
+    color: #343434;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     width: 40%;
     margin-left : auto;
     margin-right : auto;
     margin-top:10px;
-  }
-
-  .productCard {
-    background:#222;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 40%;
-    margin-left : auto;
-    margin-right : auto;
-    margin-top:10px;
-  }
-
-  .productCard > img{
-    height:300px;
-    width:350px;
   }
   
   .card:hover {
+    background:#99CD4E;
+    color: #FFFFFF;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
   
