@@ -1,7 +1,7 @@
 /*
 Purpose of the file : To display List of products
 and its details such as width height and gsm.
-todo  : remove table.
+Images width 700px, height 315px
 */
 import React from 'react';
 
