@@ -8,16 +8,23 @@
 }
 
 .navBar ul{
+  
     padding: 0;
     margin: 0;
     display: flex;
     list-style: none;
     width: 100%;
     background-color: #E1E1E1;
-    border: 5px solid #FFFFFF;    
+    border: 1px solid #FFFFFF;    
   }
-
+.logo{
+  height: 50px;
+  width: 50px;
+  display: inline-block
+  
+}
   .navBar ul a{
+    
     text-decoration: none;
     color: #343434;
     display: block;
@@ -25,8 +32,16 @@
     margin: 0 5px;
     
   }
-
-  .navBar ul .active, .navBar ul a:hover{
+.navLeft{
+  float: left;
+  position: relative;
+}
+ 
+.navLeft{
+  float: right;
+  position: relative;
+}
+.navBar ul .active, .navBar ul a:hover{
     background: #99CD4E;
     color: #FFFFFF;
   }
@@ -34,6 +49,7 @@
     position: fixed;
     width: 100%;
     bottom: 0;
+    text-align: center;
     font-style: italic;
     font-size: medium;
     background-color: greenyellow;
@@ -47,15 +63,19 @@
   }
 
   .aboutTitle{
-    font-family:  'RockSalt';
+    padding:0;
+    margin: 0;
+    font-family:  'QuickSand';
     background-color: #99CD4E;
-    font-size: 3em;
+    font-size: 4em;
     color:#ffffff;
   }
   .aboutUs{
+    text-align: left;
     font-family:  'QuickSand';
     background-color: #99CD4E;
     font-size: large;
+    align:left;
     color:#ffffff;
   }
 
