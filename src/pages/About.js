@@ -41,8 +41,12 @@ By strictly following deciplined Manufacturing process.</p>
 <br></br>
 
 <b>We strongly believe small changes make big difference and started doing our part for the environment.</b>
-
+<br></br>
 <b>How about you, are you responsible ?</b>
+<br></br>
+<br></br>
+<br></br>
+<footer>&copy; 2020 Hello World Applications.</footer>
 </div >
     )
     }
